@@ -1,0 +1,25 @@
+{
+  "name": "rssr-seo-optimization",
+  "version": "0.0.1",
+  "description": "Redirect domains starting with www to non-www and remove slash at the end of URL for improve SEO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rssr-org/rssr-seo-optimization.git"
+  },
+  "keywords": [
+    "SEO",
+    "Node",
+    "JS",
+    "Redirect"
+  ],
+  "author": "RSSR-ORG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rssr-org/rssr-seo-optimization/issues"
+  },
+  "homepage": "https://github.com/rssr-org/rssr-seo-optimization#readme"
+}
